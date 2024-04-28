@@ -292,6 +292,7 @@ footer{
  }
 
  .nav{
+    background-color: #200153;
     position: fixed;
     top:0;
     width:100%;
@@ -332,3 +333,7 @@ footer{
    font-size: 80px;
    padding-left: 50px;
 }
+
+.active{
+    background-color: #BBFF2C;
+ }
